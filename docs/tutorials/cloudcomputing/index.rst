@@ -1,7 +1,7 @@
 Cloud computing with XBeach
 ===========================
 
-In this tutorial discusses the possibilities of `cloud computing` for
+This tutorial discusses the possibilities of `cloud computing` for
 XBeach (Roelvink et al., 2009) on two different cloud computing
 systems is presented. Cloud computing is a web service that provides
 resizable compute capacity in the cloud. A simple web service
